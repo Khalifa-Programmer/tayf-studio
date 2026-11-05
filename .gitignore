@@ -1,0 +1,10 @@
+node_modules/
+out/
+release/
+dist/
+analysis/
+tayf-cache/
+resources/bin/ffmpeg.exe
+*.log
+.DS_Store
+Thumbs.db
