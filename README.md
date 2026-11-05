@@ -8,6 +8,10 @@
 
 ---
 
+## التحميل
+
+آخر إصدار: **v1.1.0** من [صفحة الإصدارات](https://github.com/Khalifa-Programmer/tayf-studio/releases/tag/v1.1.0) — المثبّت `Tayf-Studio-1.1.0-setup.exe` (SHA256: `E31F6B1AFA6040E9D743923C7D9DD842CF2B80035AE6ADCDFFD154A6DC588318`).
+
 ## المزايا
 
 ### التشغيل
